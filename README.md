@@ -1,2 +1,2 @@
 # Theory-Of-Computation
-Theory of computation programs
+Theory Of Computation Programs
